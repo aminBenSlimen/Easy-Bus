@@ -1,0 +1,7 @@
+{
+  "name": "BusApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
